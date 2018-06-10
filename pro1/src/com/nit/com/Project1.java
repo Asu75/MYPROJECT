@@ -10,6 +10,8 @@ public class Project1 {
 		
 		
 		new Wish().m2();
+		
+		System.out.println(new Multi().multi(10, 20));
 
 	}
 
