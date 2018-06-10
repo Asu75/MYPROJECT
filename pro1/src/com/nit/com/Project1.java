@@ -7,6 +7,9 @@ public class Project1 {
 		
 		new Test().m1();
 		System.out.println( new Add().sum(10, 20));
+		
+		
+		new Wish().m2();
 
 	}
 
