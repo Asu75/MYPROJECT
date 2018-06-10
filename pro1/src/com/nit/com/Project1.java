@@ -6,7 +6,7 @@ public class Project1 {
 		System.out.println("hello");
 		
 		new Test().m1();
-		
+		System.out.println( new Add().sum(10, 20));
 
 	}
 
